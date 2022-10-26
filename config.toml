@@ -1,0 +1,4 @@
+server = "chat.freenode.net"
+nick = "InstupBot"
+ssl = false
+channels = ["#openshift"]
